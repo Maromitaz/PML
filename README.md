@@ -24,6 +24,11 @@ No, you're better of using CMAKE, Make (for linux) or [MSV](https://visualstudio
 
 ### Compressing
 
+Firstly, copy the files with
+```bash
+git clone https://github.com/Maromitaz/PML.git
+```
+
 To make this project that builds projects just run
 
 ```bash
