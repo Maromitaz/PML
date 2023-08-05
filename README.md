@@ -20,7 +20,7 @@ No, you're better of using CMAKE, Make (for linux) or [MSV](https://visualstudio
 ## Requirements
 
 - Lua 5.1 or newer
-## Getting you hands on it
+## Getting your hands on it
 
 ### Compressing
 
