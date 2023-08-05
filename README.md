@@ -1,7 +1,7 @@
 
 # Project made in lua (PML)
 
-This is a project that compiles C/C++ code (with the gnu/cmake c++ compiler) just like the MS project builder but without a GUI.\
+This is a project that compiles C/C++ code (with the gnu/cmake c++ compiler) just like the MS project builder but without a GUI.
 
 
 ## Useful information
@@ -28,7 +28,7 @@ Firstly, copy the files with
 ```bash
 git clone https://github.com/Maromitaz/PML.git
 ```
-(Requires the [git](https://github.com/git/git) cli)
+(Requires the [git](https://github.com/git/git) cli)\
 To make this project that builds projects just run
 
 ```bash
