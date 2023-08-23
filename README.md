@@ -1,7 +1,7 @@
 
 # Project made in lua (PML)
 
-This is a project that compiles C/C++ code (with the gnu/cmake c++ compiler) just like the MS project builder but without a GUI.
+This is a project that compiles C/C++ code (with the gnu/cmake c++ compiler) just like the MS project builder but without a GUI.\
 
 
 ## Useful information
@@ -16,20 +16,13 @@ Why? This is just a random side project that I won't touch ever (maybe add suppo
 
 #### Is this a good builder?
 
-No, you're better of using CMAKE, Make (for linux) or [MSV](https://visualstudio.microsoft.com/) (Windows) and whatever is for mac.
+No, you're better off using CMAKE, Make (for linux) or [MSV](https://visualstudio.microsoft.com/) (Windows) and whatever is for mac (btw, I don't think that it runs on mac).
 ## Requirements
 
 - Lua 5.1 or newer
-## Getting your hands on it
+## Getting you hands on it
 
 ### Compressing
-
-Firstly, copy the files with
-```bash
-git clone https://github.com/Maromitaz/PML.git
-```
-(Requires the [git](https://github.com/git/git) cli)
-
 
 To make this project that builds projects just run
 
